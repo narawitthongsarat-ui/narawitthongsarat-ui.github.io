@@ -1,4 +1,4 @@
-//เพิ่ม JavaScript สำหรับการโต้ตอบกับผู้ใช้ (Optional)
+// เพิ่ม JavaScript สำหรับการโต้ตอบกับผู้ใล้ (Optional)
 document.addEventListener('DOMContentLoaded',function () {
-  console.log('Portfolio ของ narawit พร้อมแล้ว!');
-});
+   console.log('Portfolio ของ Narawit พร้อมแล้ว!');
+}};
