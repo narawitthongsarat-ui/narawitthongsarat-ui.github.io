@@ -10,21 +10,21 @@ header {
   background: #4CAF50;
   color: white;
   padding: 20px 0;
-  align: center;
+  text-align: center;
 }
 header hl {
   margin: 0;
 }
 header p {
-  margin: 5px
+  margin: 5px 0 0;
 }
 section {
   padding: 20px;
   margin: 20px auto;
-  max-width:800px;
-  background-color: white;
+  max-width: 800px;
+  background: white;
   border-radius: 8px;
-  shadow: 0 0 10px rgbe(0, 0, 0.1);
+  box-shadow: 0 0 10px rgbe(0, 0, 0, 0.1);
 }
 h2 {
   color: #4CAF50;
@@ -33,17 +33,17 @@ h2 {
     margin-bottom: 20px;
   }
 .project h3 {
-margin: 0 0 10px;
-    color: #333;
-  }
+  margin: 0 0 10px;
+  color: #333;
+}
 ul {
   list-stule-type: square;
   padding-left: 20px;
-  }
+}
 footer {
   text-align: center;
   padding: 10px 0;
   background: #333;
-  color: whte;
+  color: white;
   margin-top: 20px;
 }
